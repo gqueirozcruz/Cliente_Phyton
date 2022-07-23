@@ -1,3 +1,3 @@
-import controllers.controllerAplicacao as controller
+import controllers.controllerAplicacao as controllerAplicacao
 
-controller.iniciar()
+controllerAplicacao.iniciar()
